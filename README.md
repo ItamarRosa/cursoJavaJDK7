@@ -18,3 +18,4 @@ Estudo do JDK
     MAIN:
         É o nome do método. Todo e que qualquer método precisa ter um nome. Os nomes são definidos pelo programado e geralmente seguem algum padrão convecional.
         IMPORTANTE: Métodos precisam/devem ser verbos, em "MIXE CASE" com a primeira letra minuscula e a primeira letra das palavras das palavras internas em letra maiúscula.
+        No java (e em outras linguagens) o MAIN é o ponto de entrada da aplicação. É o método que é JRE procura para executar a apicação.
